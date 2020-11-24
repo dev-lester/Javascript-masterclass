@@ -4,4 +4,4 @@ const app = document.getElementById('app');
 app.innerHTML = '<h1>JavaScript Basics</h1>';
 
 
-// -----
+console.log('Hello world');
